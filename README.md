@@ -1,4 +1,4 @@
-# Stack App
+# Stackoverflow App
  This is a stack React Native application for fetching the hottest questions from React, React Native and Node.
 
 
@@ -7,7 +7,7 @@ https://github.com/GurinderSinghReact/adcuratioAssignment/assets/136964761/40b0c
  
 # Note:
 This project was built in React Native.
-Before running this project make sure react native environemnt is setup on your machine.
+Before running this project make sure react native environment is setup on your machine.
 If in case react-native environment is not setup please follow to given link to setup react-native environment before running this project: `https://reactnative.dev/docs/environment-setup?guide=native`
 
 
