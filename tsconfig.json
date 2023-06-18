@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {"types": ["node"]},
+  "typeRoots": [ "../node_modules/@types" ],
+  "extends": "@tsconfig/react-native/tsconfig.json",
+}
