@@ -1,5 +1,9 @@
 # adcuratioAssignment
  This is a stack React Native application for fetching the hottest questions from React, React Native and Node.
+
+
+https://github.com/GurinderSinghReact/adcuratioAssignment/assets/136964761/40b0c0c2-d263-4a91-ba01-9ffd0c2539c5
+
  
 # Note:
 This project was built in React Native.
